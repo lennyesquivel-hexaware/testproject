@@ -1,0 +1,22 @@
+[
+  {
+    "TempId": 5150,
+    "AUT": "",
+    "Description": "",
+    "StatusKey": "NEW",
+    "isMobile": false,
+    "TestCaseType": 7,
+    "IsExecutable": false,
+    "uri": null,
+    "DataSheet": null,
+    "Scenario": null,
+    "Authentication": null,
+    "TestSteps": [],
+    "GRDomainNameandId": null,
+    "qTestTestCaseId": null,
+    "Pester": "",
+    "Name": "desktop",
+    "Created": null,
+    "Modified": null
+  }
+]
